@@ -1,0 +1,10 @@
+body{
+    font-family: sans-serif;
+}
+span#name{
+    text-transform: uppercase;
+}
+
+ul li{
+    list-style-type: none;
+}
